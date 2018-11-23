@@ -6,4 +6,4 @@
 
 
 
-## I promised: all of the contents were written letter by letter, including URLs, paths to images, CSS font settings, the web site is build with my sweat and tears. 
+## I promised: all of the contents in my website were written letter by letter, including URLs, paths to images, CSS layout setting, and font settings, the web site is build with my sweat and tears. 
