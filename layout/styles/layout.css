@@ -22,10 +22,10 @@ File: Layout CSS
 
 /* Header
 --------------------------------------------------------------------------------------------------------------- */
-#header{padding:50px 0;}
+#header{padding:5px 0;}
 
 #header #logo *{margin:0; padding:0; line-height:1;}
-#header #logo h1{margin-top:8px; font-size:26px; letter-spacing:3px;}
+#header #logo h1{margin-top:32px; font-size:33px; letter-spacing:3px; font-family:cursive;;font-style: normal}
 
 #header #quickinfo{font-size:.8rem; text-transform:uppercase;}
 #header #quickinfo li{margin-right:50px;}
@@ -69,7 +69,7 @@ File: Layout CSS
 /* Comments */
 #comments ul{margin:0 0 40px 0; padding:0; list-style:none;}
 #comments li{margin:0 0 10px 0; padding:15px;}
-#comments .avatar{float:right; margin:0 0 10px 10px; padding:3px; border:1px solid;}
+#comments .avatar{float:right; margin:0 0 5px 5px; padding:3px; border:1px solid;}
 #comments address{font-weight:bold;}
 #comments time{font-size:smaller;}
 #comments .comcont{display:block; margin:0; padding:0;}
