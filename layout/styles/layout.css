@@ -25,7 +25,7 @@ File: Layout CSS
 #header{padding:5px 0;}
 
 #header #logo *{margin:0; padding:0; line-height:1;}
-#header #logo h1{margin-top:32px; font-size:33px; letter-spacing:3px; font-family:cursive;;font-style: normal}
+#header #logo h1{margin-top:32px; font-size:33px; letter-spacing:3px; font-family:arial;;font-style: normal}
 
 #header #quickinfo{font-size:.8rem; text-transform:uppercase;}
 #header #quickinfo li{margin-right:50px;}
